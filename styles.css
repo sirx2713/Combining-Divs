@@ -1,0 +1,27 @@
+body{
+    background-color: #FFC470;
+    align-content: center;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-family: "SF Pro Display", serif;
+    font-size: 100px;
+}
+#main-div{
+    height: 100px;
+    width: 800px;
+    background-color: #DD5746;
+    text-align: center;
+    color: white;
+    font-family: "SF Pro Display", serif;
+    margin-left: 300px;
+}
+#box{
+    height: 50px;
+    width: 400px;
+    background-color: #8B322C;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+}
